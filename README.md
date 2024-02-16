@@ -1,9 +1,3 @@
-# NextJS_Interaction
-In this repository I have come across the working on NextJS framework and how does it work and what all files and folders are included and how efficient the web development is on NextJS  
-
-
-In this repository we will be looking forward on working of Routing in NextJS 
-
 
 
 
@@ -36,6 +30,23 @@ In this repository we will be looking forward on working of Routing in NextJS
     <img alt="" src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">
   </a>
 </p>
+
+
+
+
+
+# NextJS_Interaction
+In this repository I have come across the working on NextJS framework and how does it work and what all files and folders are included and how efficient the web development is on NextJS  
+
+
+In this repository we will be looking forward on working of Routing in NextJS 
+
+
+
+
+
+
+
 
 ## Getting Started
 
