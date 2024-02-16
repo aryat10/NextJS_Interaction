@@ -75,18 +75,6 @@ Contributions to Next.js are welcome and highly appreciated. However, before you
 
 We have a list of **[good first issues](https://github.com/vercel/next.js/labels/good%20first%20issue)** that contain bugs that have a relatively limited scope. This is a great place for newcomers and beginners alike to get started, gain experience, and get familiar with our contribution process.
 
-## Authors
-
-A list of the original co-authors of Next.js that helped bring this amazing framework to life!
-
-- Tim Neutkens ([@timneutkens](https://twitter.com/timneutkens))
-- Naoyuki Kanezawa ([@nkzawa](https://twitter.com/nkzawa))
-- Guillermo Rauch ([@rauchg](https://twitter.com/rauchg))
-- Arunoda Susiripala ([@arunoda](https://twitter.com/arunoda))
-- Tony Kovanen ([@tonykovanen](https://twitter.com/tonykovanen))
-- Dan Zajdband ([@impronunciable](https://twitter.com/impronunciable))
-
----
 
 ## Security
 
