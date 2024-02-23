@@ -35,6 +35,18 @@
 
 
 
+
+![image](https://github.com/aryat10/NextJS_Interaction/assets/107941072/e73e88be-3610-4d58-91ec-4ee12a1b896d)
+
+
+
+
+
+
+
+
+
+
 # NextJS_Interaction
 In this repository I have come across the working on NextJS framework and how does it work and what all files and folders are included and how efficient the web development is on NextJS  
 
