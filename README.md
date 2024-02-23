@@ -36,13 +36,6 @@
 
 
 
-![image](https://github.com/aryat10/NextJS_Interaction/assets/107941072/e73e88be-3610-4d58-91ec-4ee12a1b896d)
-
-
-
-
-
-
 
 
 
@@ -55,6 +48,15 @@ In this repository we will be looking forward on working of Routing in NextJS
 
 
 
+
+
+
+
+
+
+
+
+![image](https://github.com/aryat10/NextJS_Interaction/assets/107941072/e73e88be-3610-4d58-91ec-4ee12a1b896d)
 
 
 
